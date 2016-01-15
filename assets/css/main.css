@@ -1,0 +1,24 @@
+html, body { height: 100%; margin: 0; padding: 0; }
+      
+		#map { 
+			height: 100%; 
+			position: fixed; 
+			z-index: 0;
+		
+		}
+	  
+		#rectangle {
+			width: 20%;
+			height: 100%;
+			background: rgba(0, 0, 0, 0.4);
+			position: fixed;
+			z-index: 1;
+	  
+		}
+		
+		#sidebarLogo {
+			position: relative;
+			z-index: 2;
+		}
+		
+		
